@@ -1,12 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: andyt
- * Date: 05.08.2021
- * Time: 12:14
- */
 
-namespace app;
+namespace Project;
+
 
 use LeadGenerator\Lead;
 
